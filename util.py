@@ -32,8 +32,11 @@ def decimal_to_binary(bits: int, number: int) -> bytearray:
     power = 2 << (bits - 1)
     res = []
     while power != 0:
-        res.insert(0, int(number-power>0))
-        power >> 1
+        boolean = int(number-power>=0)
+        if boolean:
+            number -= power
+        res.append(boolean)
+        power >>= 1
     return res
 
 

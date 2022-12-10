@@ -2,6 +2,7 @@ from serial import *
 import sys
 import glob
 import serial
+import util
 
 
 if __name__ == '__main__':
@@ -23,3 +24,8 @@ if __name__ == '__main__':
     while True:
         ser.write(bytearray([1,1,0,0,0,0,0,1]))
         # ser.flush()
+
+        inp = input("input a number: ")
+        num = int(inp)
+        binary = list(util.decimal_to_binary(8, num))
+        print(binary)
