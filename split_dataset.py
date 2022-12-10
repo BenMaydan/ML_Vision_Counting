@@ -56,12 +56,6 @@ def split(folder: str, args, split=[0.9, 0.1, 0.2]):
     os.mkdir(validation_set_folder)
 
 
-    training_image_continue = 0
-    testing_image_continue = 0
-    validation_image_continue = 0
-    
-
-
     for finger in range(1,6):
         num_images = 0
         num_training_images = 0

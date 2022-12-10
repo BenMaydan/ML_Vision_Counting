@@ -38,7 +38,7 @@ if __name__ == "__main__":
         predictions = [100*x for x in predictions]
         print(predictions)
         max_confidence = max(predictions)
-        prediction = predictions.index(max_confidence)
+        prediction = predictions.index(max_confidence) + 1
         print("Prediction: " + str(prediction) + " fingers -> " + str(max_confidence) + "%" + " confidence\n")
         # print(max)
         

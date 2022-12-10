@@ -1,0 +1,502 @@
+PROCESSING FILE: IMG_5193.JPG -> fingers_processed/fingers_1/fingers_1_0.jpg
+PROCESSING FILE: IMG_5187.JPG -> fingers_processed/fingers_1/fingers_1_1.jpg
+PROCESSING FILE: IMG_5178.JPG -> fingers_processed/fingers_1/fingers_1_2.jpg
+PROCESSING FILE: IMG_5336 (1).JPG -> fingers_processed/fingers_1/fingers_1_3.jpg
+PROCESSING FILE: IMG_5150.JPG -> fingers_processed/fingers_1/fingers_1_4.jpg
+PROCESSING FILE: IMG_5144.JPG -> fingers_processed/fingers_1/fingers_1_5.jpg
+PROCESSING FILE: IMG_5326 (1).JPG -> fingers_processed/fingers_1/fingers_1_6.jpg
+PROCESSING FILE: IMG_5391.JPG -> fingers_processed/fingers_1/fingers_1_7.jpg
+PROCESSING FILE: IMG_5385.JPG -> fingers_processed/fingers_1/fingers_1_8.jpg
+PROCESSING FILE: IMG_5408.JPG -> fingers_processed/fingers_1/fingers_1_9.jpg
+PROCESSING FILE: IMG_5352.JPG -> fingers_processed/fingers_1/fingers_1_10.jpg
+PROCESSING FILE: IMG_5434.JPG -> fingers_processed/fingers_1/fingers_1_11.jpg
+PROCESSING FILE: IMG_5420.JPG -> fingers_processed/fingers_1/fingers_1_12.jpg
+PROCESSING FILE: IMG_5346.JPG -> fingers_processed/fingers_1/fingers_1_13.jpg
+PROCESSING FILE: IMG_5295 (1).JPG -> fingers_processed/fingers_1/fingers_1_14.jpg
+PROCESSING FILE: IMG_5285 (1).JPG -> fingers_processed/fingers_1/fingers_1_15.jpg
+PROCESSING FILE: IMG_5226.JPG -> fingers_processed/fingers_1/fingers_1_16.jpg
+PROCESSING FILE: IMG_5232.JPG -> fingers_processed/fingers_1/fingers_1_17.jpg
+PROCESSING FILE: IMG_5354 (1).JPG -> fingers_processed/fingers_1/fingers_1_18.jpg
+PROCESSING FILE: IMG_5344 (1).JPG -> fingers_processed/fingers_1/fingers_1_19.jpg
+PROCESSING FILE: IMG_5030.JPG -> fingers_processed/fingers_1/fingers_1_20.jpg
+PROCESSING FILE: IMG_5031.JPG -> fingers_processed/fingers_1/fingers_1_21.jpg
+PROCESSING FILE: IMG_5227.JPG -> fingers_processed/fingers_1/fingers_1_22.jpg
+PROCESSING FILE: IMG_5309 (1).JPG -> fingers_processed/fingers_1/fingers_1_23.jpg
+PROCESSING FILE: IMG_5271 (1).JPG -> fingers_processed/fingers_1/fingers_1_24.jpg
+PROCESSING FILE: IMG_5319 (1).JPG -> fingers_processed/fingers_1/fingers_1_25.jpg
+PROCESSING FILE: IMG_5261 (1).JPG -> fingers_processed/fingers_1/fingers_1_26.jpg
+PROCESSING FILE: IMG_5421.JPG -> fingers_processed/fingers_1/fingers_1_27.jpg
+PROCESSING FILE: IMG_5347.JPG -> fingers_processed/fingers_1/fingers_1_28.jpg
+PROCESSING FILE: IMG_5353.JPG -> fingers_processed/fingers_1/fingers_1_29.jpg
+PROCESSING FILE: IMG_5435.JPG -> fingers_processed/fingers_1/fingers_1_30.jpg
+PROCESSING FILE: IMG_5409.JPG -> fingers_processed/fingers_1/fingers_1_31.jpg
+PROCESSING FILE: IMG_5384.JPG -> fingers_processed/fingers_1/fingers_1_32.jpg
+PROCESSING FILE: IMG_5390.JPG -> fingers_processed/fingers_1/fingers_1_33.jpg
+PROCESSING FILE: IMG_5145.JPG -> fingers_processed/fingers_1/fingers_1_34.jpg
+PROCESSING FILE: IMG_5151.JPG -> fingers_processed/fingers_1/fingers_1_35.jpg
+PROCESSING FILE: IMG_5179.JPG -> fingers_processed/fingers_1/fingers_1_36.jpg
+PROCESSING FILE: IMG_5186.JPG -> fingers_processed/fingers_1/fingers_1_37.jpg
+PROCESSING FILE: IMG_5192.JPG -> fingers_processed/fingers_1/fingers_1_38.jpg
+PROCESSING FILE: IMG_5184.JPG -> fingers_processed/fingers_1/fingers_1_39.jpg
+PROCESSING FILE: IMG_5190.JPG -> fingers_processed/fingers_1/fingers_1_40.jpg
+PROCESSING FILE: IMG_5147.JPG -> fingers_processed/fingers_1/fingers_1_41.jpg
+PROCESSING FILE: IMG_5153.JPG -> fingers_processed/fingers_1/fingers_1_42.jpg
+PROCESSING FILE: IMG_5386.JPG -> fingers_processed/fingers_1/fingers_1_43.jpg
+PROCESSING FILE: IMG_5392.JPG -> fingers_processed/fingers_1/fingers_1_44.jpg
+PROCESSING FILE: IMG_5379.JPG -> fingers_processed/fingers_1/fingers_1_45.jpg
+PROCESSING FILE: IMG_5345.JPG -> fingers_processed/fingers_1/fingers_1_46.jpg
+PROCESSING FILE: IMG_5423.JPG -> fingers_processed/fingers_1/fingers_1_47.jpg
+PROCESSING FILE: IMG_5437.JPG -> fingers_processed/fingers_1/fingers_1_48.jpg
+PROCESSING FILE: IMG_5351.JPG -> fingers_processed/fingers_1/fingers_1_49.jpg
+PROCESSING FILE: IMG_5219.JPG -> fingers_processed/fingers_1/fingers_1_50.jpg
+PROCESSING FILE: IMG_5231.JPG -> fingers_processed/fingers_1/fingers_1_51.jpg
+PROCESSING FILE: IMG_5257 (1).JPG -> fingers_processed/fingers_1/fingers_1_52.jpg
+PROCESSING FILE: IMG_5225.JPG -> fingers_processed/fingers_1/fingers_1_53.jpg
+PROCESSING FILE: IMG_5033.JPG -> fingers_processed/fingers_1/fingers_1_54.jpg
+PROCESSING FILE: IMG_5032.JPG -> fingers_processed/fingers_1/fingers_1_55.jpg
+PROCESSING FILE: IMG_5224.JPG -> fingers_processed/fingers_1/fingers_1_56.jpg
+PROCESSING FILE: IMG_5230.JPG -> fingers_processed/fingers_1/fingers_1_57.jpg
+PROCESSING FILE: IMG_5218.JPG -> fingers_processed/fingers_1/fingers_1_58.jpg
+PROCESSING FILE: IMG_5436.JPG -> fingers_processed/fingers_1/fingers_1_59.jpg
+PROCESSING FILE: IMG_5350.JPG -> fingers_processed/fingers_1/fingers_1_60.jpg
+PROCESSING FILE: IMG_5344.JPG -> fingers_processed/fingers_1/fingers_1_61.jpg
+PROCESSING FILE: IMG_5422.JPG -> fingers_processed/fingers_1/fingers_1_62.jpg
+PROCESSING FILE: IMG_5378.JPG -> fingers_processed/fingers_1/fingers_1_63.jpg
+PROCESSING FILE: IMG_5393.JPG -> fingers_processed/fingers_1/fingers_1_64.jpg
+PROCESSING FILE: IMG_5387.JPG -> fingers_processed/fingers_1/fingers_1_65.jpg
+PROCESSING FILE: IMG_5152.JPG -> fingers_processed/fingers_1/fingers_1_66.jpg
+PROCESSING FILE: IMG_5146.JPG -> fingers_processed/fingers_1/fingers_1_67.jpg
+PROCESSING FILE: IMG_5310 (1).JPG -> fingers_processed/fingers_1/fingers_1_68.jpg
+PROCESSING FILE: IMG_5268 (1).JPG -> fingers_processed/fingers_1/fingers_1_69.jpg
+PROCESSING FILE: IMG_5300 (1).JPG -> fingers_processed/fingers_1/fingers_1_70.jpg
+PROCESSING FILE: IMG_5278 (1).JPG -> fingers_processed/fingers_1/fingers_1_71.jpg
+PROCESSING FILE: IMG_5191.JPG -> fingers_processed/fingers_1/fingers_1_72.jpg
+PROCESSING FILE: IMG_5185.JPG -> fingers_processed/fingers_1/fingers_1_73.jpg
+PROCESSING FILE: IMG_5181.JPG -> fingers_processed/fingers_1/fingers_1_74.jpg
+PROCESSING FILE: IMG_5195.JPG -> fingers_processed/fingers_1/fingers_1_75.jpg
+PROCESSING FILE: IMG_5142.JPG -> fingers_processed/fingers_1/fingers_1_76.jpg
+PROCESSING FILE: IMG_5156.JPG -> fingers_processed/fingers_1/fingers_1_77.jpg
+PROCESSING FILE: IMG_5383.JPG -> fingers_processed/fingers_1/fingers_1_78.jpg
+PROCESSING FILE: IMG_5397.JPG -> fingers_processed/fingers_1/fingers_1_79.jpg
+PROCESSING FILE: IMG_5426.JPG -> fingers_processed/fingers_1/fingers_1_80.jpg
+PROCESSING FILE: IMG_5340.JPG -> fingers_processed/fingers_1/fingers_1_81.jpg
+PROCESSING FILE: IMG_5354.JPG -> fingers_processed/fingers_1/fingers_1_82.jpg
+PROCESSING FILE: IMG_5432.JPG -> fingers_processed/fingers_1/fingers_1_83.jpg
+PROCESSING FILE: IMG_5368.JPG -> fingers_processed/fingers_1/fingers_1_84.jpg
+PROCESSING FILE: IMG_5220.JPG -> fingers_processed/fingers_1/fingers_1_85.jpg
+PROCESSING FILE: IMG_5208.JPG -> fingers_processed/fingers_1/fingers_1_86.jpg
+PROCESSING FILE: IMG_5036.JPG -> fingers_processed/fingers_1/fingers_1_87.jpg
+PROCESSING FILE: IMG_5256 (1).JPG -> fingers_processed/fingers_1/fingers_1_88.jpg
+PROCESSING FILE: IMG_5037.JPG -> fingers_processed/fingers_1/fingers_1_89.jpg
+PROCESSING FILE: IMG_5209.JPG -> fingers_processed/fingers_1/fingers_1_90.jpg
+PROCESSING FILE: IMG_5221.JPG -> fingers_processed/fingers_1/fingers_1_91.jpg
+PROCESSING FILE: IMG_5279 (1).JPG -> fingers_processed/fingers_1/fingers_1_92.jpg
+PROCESSING FILE: IMG_5369.JPG -> fingers_processed/fingers_1/fingers_1_93.jpg
+PROCESSING FILE: IMG_5301 (1).JPG -> fingers_processed/fingers_1/fingers_1_94.jpg
+PROCESSING FILE: IMG_5269 (1).JPG -> fingers_processed/fingers_1/fingers_1_95.jpg
+PROCESSING FILE: IMG_5311 (1).JPG -> fingers_processed/fingers_1/fingers_1_96.jpg
+PROCESSING FILE: IMG_5355.JPG -> fingers_processed/fingers_1/fingers_1_97.jpg
+PROCESSING FILE: IMG_5433.JPG -> fingers_processed/fingers_1/fingers_1_98.jpg
+PROCESSING FILE: IMG_5427.JPG -> fingers_processed/fingers_1/fingers_1_99.jpg
+PROCESSING FILE: IMG_5341.JPG -> fingers_processed/fingers_1/fingers_1_100.jpg
+PROCESSING FILE: IMG_5396.JPG -> fingers_processed/fingers_1/fingers_1_101.jpg
+PROCESSING FILE: IMG_5382.JPG -> fingers_processed/fingers_1/fingers_1_102.jpg
+PROCESSING FILE: IMG_5157.JPG -> fingers_processed/fingers_1/fingers_1_103.jpg
+PROCESSING FILE: IMG_5143.JPG -> fingers_processed/fingers_1/fingers_1_104.jpg
+PROCESSING FILE: IMG_5194.JPG -> fingers_processed/fingers_1/fingers_1_105.jpg
+PROCESSING FILE: IMG_5196.JPG -> fingers_processed/fingers_1/fingers_1_106.jpg
+PROCESSING FILE: IMG_5182.JPG -> fingers_processed/fingers_1/fingers_1_107.jpg
+PROCESSING FILE: IMG_5155.JPG -> fingers_processed/fingers_1/fingers_1_108.jpg
+PROCESSING FILE: IMG_5141.JPG -> fingers_processed/fingers_1/fingers_1_109.jpg
+PROCESSING FILE: IMG_5169.JPG -> fingers_processed/fingers_1/fingers_1_110.jpg
+PROCESSING FILE: IMG_5394.JPG -> fingers_processed/fingers_1/fingers_1_111.jpg
+PROCESSING FILE: IMG_5380.JPG -> fingers_processed/fingers_1/fingers_1_112.jpg
+PROCESSING FILE: IMG_5431.JPG -> fingers_processed/fingers_1/fingers_1_113.jpg
+PROCESSING FILE: IMG_5327 (1).JPG -> fingers_processed/fingers_1/fingers_1_114.jpg
+PROCESSING FILE: IMG_5357.JPG -> fingers_processed/fingers_1/fingers_1_115.jpg
+PROCESSING FILE: IMG_5343.JPG -> fingers_processed/fingers_1/fingers_1_116.jpg
+PROCESSING FILE: IMG_5337 (1).JPG -> fingers_processed/fingers_1/fingers_1_117.jpg
+PROCESSING FILE: IMG_5425.JPG -> fingers_processed/fingers_1/fingers_1_118.jpg
+PROCESSING FILE: IMG_5419.JPG -> fingers_processed/fingers_1/fingers_1_119.jpg
+PROCESSING FILE: IMG_5345 (1).JPG -> fingers_processed/fingers_1/fingers_1_120.jpg
+PROCESSING FILE: IMG_5355 (1).JPG -> fingers_processed/fingers_1/fingers_1_121.jpg
+PROCESSING FILE: IMG_5223.JPG -> fingers_processed/fingers_1/fingers_1_122.jpg
+PROCESSING FILE: IMG_5035.JPG -> fingers_processed/fingers_1/fingers_1_123.jpg
+PROCESSING FILE: IMG_5284 (1).JPG -> fingers_processed/fingers_1/fingers_1_124.jpg
+PROCESSING FILE: IMG_5294 (1).JPG -> fingers_processed/fingers_1/fingers_1_125.jpg
+PROCESSING FILE: IMG_5260 (1).JPG -> fingers_processed/fingers_1/fingers_1_126.jpg
+PROCESSING FILE: IMG_5318 (1).JPG -> fingers_processed/fingers_1/fingers_1_127.jpg
+PROCESSING FILE: IMG_5270 (1).JPG -> fingers_processed/fingers_1/fingers_1_128.jpg
+PROCESSING FILE: IMG_5308 (1).JPG -> fingers_processed/fingers_1/fingers_1_129.jpg
+PROCESSING FILE: IMG_5034.JPG -> fingers_processed/fingers_1/fingers_1_130.jpg
+PROCESSING FILE: IMG_5222.JPG -> fingers_processed/fingers_1/fingers_1_131.jpg
+PROCESSING FILE: IMG_5418.JPG -> fingers_processed/fingers_1/fingers_1_132.jpg
+PROCESSING FILE: IMG_5342.JPG -> fingers_processed/fingers_1/fingers_1_133.jpg
+PROCESSING FILE: IMG_5424.JPG -> fingers_processed/fingers_1/fingers_1_134.jpg
+PROCESSING FILE: IMG_5430.JPG -> fingers_processed/fingers_1/fingers_1_135.jpg
+PROCESSING FILE: IMG_5356.JPG -> fingers_processed/fingers_1/fingers_1_136.jpg
+PROCESSING FILE: IMG_5381.JPG -> fingers_processed/fingers_1/fingers_1_137.jpg
+PROCESSING FILE: IMG_5395.JPG -> fingers_processed/fingers_1/fingers_1_138.jpg
+PROCESSING FILE: IMG_5168.JPG -> fingers_processed/fingers_1/fingers_1_139.jpg
+PROCESSING FILE: IMG_5140.JPG -> fingers_processed/fingers_1/fingers_1_140.jpg
+PROCESSING FILE: IMG_5154.JPG -> fingers_processed/fingers_1/fingers_1_141.jpg
+PROCESSING FILE: IMG_5183.JPG -> fingers_processed/fingers_1/fingers_1_142.jpg
+PROCESSING FILE: IMG_5197.JPG -> fingers_processed/fingers_1/fingers_1_143.jpg
+PROCESSING FILE: IMG_5133.JPG -> fingers_processed/fingers_1/fingers_1_144.jpg
+PROCESSING FILE: IMG_5127.JPG -> fingers_processed/fingers_1/fingers_1_145.jpg
+PROCESSING FILE: IMG_5319.JPG -> fingers_processed/fingers_1/fingers_1_146.jpg
+PROCESSING FILE: IMG_5331.JPG -> fingers_processed/fingers_1/fingers_1_147.jpg
+PROCESSING FILE: IMG_5325.JPG -> fingers_processed/fingers_1/fingers_1_148.jpg
+PROCESSING FILE: IMG_5443.JPG -> fingers_processed/fingers_1/fingers_1_149.jpg
+PROCESSING FILE: IMG_5286.JPG -> fingers_processed/fingers_1/fingers_1_150.jpg
+PROCESSING FILE: IMG_5292.JPG -> fingers_processed/fingers_1/fingers_1_151.jpg
+PROCESSING FILE: IMG_5279.JPG -> fingers_processed/fingers_1/fingers_1_152.jpg
+PROCESSING FILE: IMG_5251.JPG -> fingers_processed/fingers_1/fingers_1_153.jpg
+PROCESSING FILE: IMG_5084.JPG -> fingers_processed/fingers_1/fingers_1_154.jpg
+PROCESSING FILE: IMG_5090.JPG -> fingers_processed/fingers_1/fingers_1_155.jpg
+PROCESSING FILE: IMG_5047.JPG -> fingers_processed/fingers_1/fingers_1_156.jpg
+PROCESSING FILE: IMG_5053.JPG -> fingers_processed/fingers_1/fingers_1_157.jpg
+PROCESSING FILE: IMG_5052.JPG -> fingers_processed/fingers_1/fingers_1_158.jpg
+PROCESSING FILE: IMG_5046.JPG -> fingers_processed/fingers_1/fingers_1_159.jpg
+PROCESSING FILE: IMG_5091.JPG -> fingers_processed/fingers_1/fingers_1_160.jpg
+PROCESSING FILE: IMG_5085.JPG -> fingers_processed/fingers_1/fingers_1_161.jpg
+PROCESSING FILE: IMG_5313 (1).JPG -> fingers_processed/fingers_1/fingers_1_162.jpg
+PROCESSING FILE: IMG_5303 (1).JPG -> fingers_processed/fingers_1/fingers_1_163.jpg
+PROCESSING FILE: IMG_5250.JPG -> fingers_processed/fingers_1/fingers_1_164.jpg
+PROCESSING FILE: IMG_5278.JPG -> fingers_processed/fingers_1/fingers_1_165.jpg
+PROCESSING FILE: IMG_5293.JPG -> fingers_processed/fingers_1/fingers_1_166.jpg
+PROCESSING FILE: IMG_5287.JPG -> fingers_processed/fingers_1/fingers_1_167.jpg
+PROCESSING FILE: IMG_5324.JPG -> fingers_processed/fingers_1/fingers_1_168.jpg
+PROCESSING FILE: IMG_5442.JPG -> fingers_processed/fingers_1/fingers_1_169.jpg
+PROCESSING FILE: IMG_5330.JPG -> fingers_processed/fingers_1/fingers_1_170.jpg
+PROCESSING FILE: IMG_5318.JPG -> fingers_processed/fingers_1/fingers_1_171.jpg
+PROCESSING FILE: IMG_5126.JPG -> fingers_processed/fingers_1/fingers_1_172.jpg
+PROCESSING FILE: IMG_5132.JPG -> fingers_processed/fingers_1/fingers_1_173.jpg
+PROCESSING FILE: IMG_5118.JPG -> fingers_processed/fingers_1/fingers_1_174.jpg
+PROCESSING FILE: IMG_5347 (1).JPG -> fingers_processed/fingers_1/fingers_1_175.jpg
+PROCESSING FILE: IMG_5124.JPG -> fingers_processed/fingers_1/fingers_1_176.jpg
+PROCESSING FILE: IMG_5130.JPG -> fingers_processed/fingers_1/fingers_1_177.jpg
+PROCESSING FILE: IMG_5296 (1).JPG -> fingers_processed/fingers_1/fingers_1_178.jpg
+PROCESSING FILE: IMG_5286 (1).JPG -> fingers_processed/fingers_1/fingers_1_179.jpg
+PROCESSING FILE: IMG_5440.JPG -> fingers_processed/fingers_1/fingers_1_180.jpg
+PROCESSING FILE: IMG_5326.JPG -> fingers_processed/fingers_1/fingers_1_181.jpg
+PROCESSING FILE: IMG_5332.JPG -> fingers_processed/fingers_1/fingers_1_182.jpg
+PROCESSING FILE: IMG_5291.JPG -> fingers_processed/fingers_1/fingers_1_183.jpg
+PROCESSING FILE: IMG_5285.JPG -> fingers_processed/fingers_1/fingers_1_184.jpg
+PROCESSING FILE: IMG_5252.JPG -> fingers_processed/fingers_1/fingers_1_185.jpg
+PROCESSING FILE: IMG_5093.JPG -> fingers_processed/fingers_1/fingers_1_186.jpg
+PROCESSING FILE: IMG_5335 (1).JPG -> fingers_processed/fingers_1/fingers_1_187.jpg
+PROCESSING FILE: IMG_5325 (1).JPG -> fingers_processed/fingers_1/fingers_1_188.jpg
+PROCESSING FILE: IMG_5087.JPG -> fingers_processed/fingers_1/fingers_1_189.jpg
+PROCESSING FILE: IMG_5078.JPG -> fingers_processed/fingers_1/fingers_1_190.jpg
+PROCESSING FILE: IMG_5050.JPG -> fingers_processed/fingers_1/fingers_1_191.jpg
+PROCESSING FILE: IMG_5044.JPG -> fingers_processed/fingers_1/fingers_1_192.jpg
+PROCESSING FILE: IMG_5051.JPG -> fingers_processed/fingers_1/fingers_1_193.jpg
+PROCESSING FILE: IMG_5079.JPG -> fingers_processed/fingers_1/fingers_1_194.jpg
+PROCESSING FILE: IMG_5086.JPG -> fingers_processed/fingers_1/fingers_1_195.jpg
+PROCESSING FILE: IMG_5092.JPG -> fingers_processed/fingers_1/fingers_1_196.jpg
+PROCESSING FILE: IMG_5253.JPG -> fingers_processed/fingers_1/fingers_1_197.jpg
+PROCESSING FILE: IMG_5284.JPG -> fingers_processed/fingers_1/fingers_1_198.jpg
+PROCESSING FILE: IMG_5290.JPG -> fingers_processed/fingers_1/fingers_1_199.jpg
+PROCESSING FILE: IMG_5333.JPG -> fingers_processed/fingers_1/fingers_1_200.jpg
+PROCESSING FILE: IMG_5441.JPG -> fingers_processed/fingers_1/fingers_1_201.jpg
+PROCESSING FILE: IMG_5327.JPG -> fingers_processed/fingers_1/fingers_1_202.jpg
+PROCESSING FILE: IMG_5272 (1).JPG -> fingers_processed/fingers_1/fingers_1_203.jpg
+PROCESSING FILE: IMG_5262 (1).JPG -> fingers_processed/fingers_1/fingers_1_204.jpg
+PROCESSING FILE: IMG_5131.JPG -> fingers_processed/fingers_1/fingers_1_205.jpg
+PROCESSING FILE: IMG_5125.JPG -> fingers_processed/fingers_1/fingers_1_206.jpg
+PROCESSING FILE: IMG_5119.JPG -> fingers_processed/fingers_1/fingers_1_207.jpg
+PROCESSING FILE: IMG_5287 (1).JPG -> fingers_processed/fingers_1/fingers_1_208.jpg
+PROCESSING FILE: IMG_5297 (1).JPG -> fingers_processed/fingers_1/fingers_1_209.jpg
+PROCESSING FILE: IMG_5121.JPG -> fingers_processed/fingers_1/fingers_1_210.jpg
+PROCESSING FILE: IMG_5135.JPG -> fingers_processed/fingers_1/fingers_1_211.jpg
+PROCESSING FILE: IMG_5109.JPG -> fingers_processed/fingers_1/fingers_1_212.jpg
+PROCESSING FILE: IMG_5323.JPG -> fingers_processed/fingers_1/fingers_1_213.jpg
+PROCESSING FILE: IMG_5445.JPG -> fingers_processed/fingers_1/fingers_1_214.jpg
+PROCESSING FILE: IMG_5337.JPG -> fingers_processed/fingers_1/fingers_1_215.jpg
+PROCESSING FILE: IMG_5346 (1).JPG -> fingers_processed/fingers_1/fingers_1_216.jpg
+PROCESSING FILE: IMG_5356 (1).JPG -> fingers_processed/fingers_1/fingers_1_217.jpg
+PROCESSING FILE: IMG_5324 (1).JPG -> fingers_processed/fingers_1/fingers_1_218.jpg
+PROCESSING FILE: IMG_5294.JPG -> fingers_processed/fingers_1/fingers_1_219.jpg
+PROCESSING FILE: IMG_5334 (1).JPG -> fingers_processed/fingers_1/fingers_1_220.jpg
+PROCESSING FILE: IMG_5280.JPG -> fingers_processed/fingers_1/fingers_1_221.jpg
+PROCESSING FILE: IMG_5257.JPG -> fingers_processed/fingers_1/fingers_1_222.jpg
+PROCESSING FILE: IMG_5096.JPG -> fingers_processed/fingers_1/fingers_1_223.jpg
+PROCESSING FILE: IMG_5082.JPG -> fingers_processed/fingers_1/fingers_1_224.jpg
+PROCESSING FILE: IMG_5055.JPG -> fingers_processed/fingers_1/fingers_1_225.jpg
+PROCESSING FILE: IMG_5041.JPG -> fingers_processed/fingers_1/fingers_1_226.jpg
+PROCESSING FILE: IMG_5069.JPG -> fingers_processed/fingers_1/fingers_1_227.jpg
+PROCESSING FILE: IMG_5068.JPG -> fingers_processed/fingers_1/fingers_1_228.jpg
+PROCESSING FILE: IMG_5040.JPG -> fingers_processed/fingers_1/fingers_1_229.jpg
+PROCESSING FILE: IMG_5054.JPG -> fingers_processed/fingers_1/fingers_1_230.jpg
+PROCESSING FILE: IMG_5083.JPG -> fingers_processed/fingers_1/fingers_1_231.jpg
+PROCESSING FILE: IMG_5097.JPG -> fingers_processed/fingers_1/fingers_1_232.jpg
+PROCESSING FILE: IMG_5256.JPG -> fingers_processed/fingers_1/fingers_1_233.jpg
+PROCESSING FILE: IMG_5281.JPG -> fingers_processed/fingers_1/fingers_1_234.jpg
+PROCESSING FILE: IMG_5295.JPG -> fingers_processed/fingers_1/fingers_1_235.jpg
+PROCESSING FILE: IMG_5336.JPG -> fingers_processed/fingers_1/fingers_1_236.jpg
+PROCESSING FILE: IMG_5322.JPG -> fingers_processed/fingers_1/fingers_1_237.jpg
+PROCESSING FILE: IMG_5444.JPG -> fingers_processed/fingers_1/fingers_1_238.jpg
+PROCESSING FILE: IMG_5108.JPG -> fingers_processed/fingers_1/fingers_1_239.jpg
+PROCESSING FILE: IMG_5134.JPG -> fingers_processed/fingers_1/fingers_1_240.jpg
+PROCESSING FILE: IMG_5120.JPG -> fingers_processed/fingers_1/fingers_1_241.jpg
+PROCESSING FILE: IMG_5263 (1).JPG -> fingers_processed/fingers_1/fingers_1_242.jpg
+PROCESSING FILE: IMG_5273 (1).JPG -> fingers_processed/fingers_1/fingers_1_243.jpg
+PROCESSING FILE: IMG_5136.JPG -> fingers_processed/fingers_1/fingers_1_244.jpg
+PROCESSING FILE: IMG_5122.JPG -> fingers_processed/fingers_1/fingers_1_245.jpg
+PROCESSING FILE: IMG_5334.JPG -> fingers_processed/fingers_1/fingers_1_246.jpg
+PROCESSING FILE: IMG_5446.JPG -> fingers_processed/fingers_1/fingers_1_247.jpg
+PROCESSING FILE: IMG_5320.JPG -> fingers_processed/fingers_1/fingers_1_248.jpg
+PROCESSING FILE: IMG_5308.JPG -> fingers_processed/fingers_1/fingers_1_249.jpg
+PROCESSING FILE: IMG_5283.JPG -> fingers_processed/fingers_1/fingers_1_250.jpg
+PROCESSING FILE: IMG_5297.JPG -> fingers_processed/fingers_1/fingers_1_251.jpg
+PROCESSING FILE: IMG_5254.JPG -> fingers_processed/fingers_1/fingers_1_252.jpg
+PROCESSING FILE: IMG_5268.JPG -> fingers_processed/fingers_1/fingers_1_253.jpg
+PROCESSING FILE: IMG_5081.JPG -> fingers_processed/fingers_1/fingers_1_254.jpg
+PROCESSING FILE: IMG_5095.JPG -> fingers_processed/fingers_1/fingers_1_255.jpg
+PROCESSING FILE: IMG_5042.JPG -> fingers_processed/fingers_1/fingers_1_256.jpg
+PROCESSING FILE: IMG_5056.JPG -> fingers_processed/fingers_1/fingers_1_257.jpg
+PROCESSING FILE: IMG_5057.JPG -> fingers_processed/fingers_1/fingers_1_258.jpg
+PROCESSING FILE: IMG_5043.JPG -> fingers_processed/fingers_1/fingers_1_259.jpg
+PROCESSING FILE: IMG_5094.JPG -> fingers_processed/fingers_1/fingers_1_260.jpg
+PROCESSING FILE: IMG_5080.JPG -> fingers_processed/fingers_1/fingers_1_261.jpg
+PROCESSING FILE: IMG_5269.JPG -> fingers_processed/fingers_1/fingers_1_262.jpg
+PROCESSING FILE: IMG_5255.JPG -> fingers_processed/fingers_1/fingers_1_263.jpg
+PROCESSING FILE: IMG_5302 (1).JPG -> fingers_processed/fingers_1/fingers_1_264.jpg
+PROCESSING FILE: IMG_5312 (1).JPG -> fingers_processed/fingers_1/fingers_1_265.jpg
+PROCESSING FILE: IMG_5296.JPG -> fingers_processed/fingers_1/fingers_1_266.jpg
+PROCESSING FILE: IMG_5282.JPG -> fingers_processed/fingers_1/fingers_1_267.jpg
+PROCESSING FILE: IMG_5309.JPG -> fingers_processed/fingers_1/fingers_1_268.jpg
+PROCESSING FILE: IMG_5447.JPG -> fingers_processed/fingers_1/fingers_1_269.jpg
+PROCESSING FILE: IMG_5321.JPG -> fingers_processed/fingers_1/fingers_1_270.jpg
+PROCESSING FILE: IMG_5335.JPG -> fingers_processed/fingers_1/fingers_1_271.jpg
+PROCESSING FILE: IMG_5123.JPG -> fingers_processed/fingers_1/fingers_1_272.jpg
+PROCESSING FILE: IMG_5137.JPG -> fingers_processed/fingers_1/fingers_1_273.jpg
+PROCESSING FILE: IMG_5112.JPG -> fingers_processed/fingers_1/fingers_1_274.jpg
+PROCESSING FILE: IMG_5106.JPG -> fingers_processed/fingers_1/fingers_1_275.jpg
+PROCESSING FILE: IMG_5317 (1).JPG -> fingers_processed/fingers_1/fingers_1_276.jpg
+PROCESSING FILE: IMG_5307 (1).JPG -> fingers_processed/fingers_1/fingers_1_277.jpg
+PROCESSING FILE: IMG_5338.JPG -> fingers_processed/fingers_1/fingers_1_278.jpg
+PROCESSING FILE: IMG_5310.JPG -> fingers_processed/fingers_1/fingers_1_279.jpg
+PROCESSING FILE: IMG_5304.JPG -> fingers_processed/fingers_1/fingers_1_280.jpg
+PROCESSING FILE: IMG_5258.JPG -> fingers_processed/fingers_1/fingers_1_281.jpg
+PROCESSING FILE: IMG_5264.JPG -> fingers_processed/fingers_1/fingers_1_282.jpg
+PROCESSING FILE: IMG_5270.JPG -> fingers_processed/fingers_1/fingers_1_283.jpg
+PROCESSING FILE: IMG_5099.JPG -> fingers_processed/fingers_1/fingers_1_284.jpg
+PROCESSING FILE: IMG_5066.JPG -> fingers_processed/fingers_1/fingers_1_285.jpg
+PROCESSING FILE: IMG_5072.JPG -> fingers_processed/fingers_1/fingers_1_286.jpg
+PROCESSING FILE: IMG_5073.JPG -> fingers_processed/fingers_1/fingers_1_287.jpg
+PROCESSING FILE: IMG_5067.JPG -> fingers_processed/fingers_1/fingers_1_288.jpg
+PROCESSING FILE: IMG_5328 (1).JPG -> fingers_processed/fingers_1/fingers_1_289.jpg
+PROCESSING FILE: IMG_5338 (1).JPG -> fingers_processed/fingers_1/fingers_1_290.jpg
+PROCESSING FILE: IMG_5098.JPG -> fingers_processed/fingers_1/fingers_1_291.jpg
+PROCESSING FILE: IMG_5271.JPG -> fingers_processed/fingers_1/fingers_1_292.jpg
+PROCESSING FILE: IMG_5265.JPG -> fingers_processed/fingers_1/fingers_1_293.jpg
+PROCESSING FILE: IMG_5259.JPG -> fingers_processed/fingers_1/fingers_1_294.jpg
+PROCESSING FILE: IMG_5305.JPG -> fingers_processed/fingers_1/fingers_1_295.jpg
+PROCESSING FILE: IMG_5311.JPG -> fingers_processed/fingers_1/fingers_1_296.jpg
+PROCESSING FILE: IMG_5339.JPG -> fingers_processed/fingers_1/fingers_1_297.jpg
+PROCESSING FILE: IMG_5107.JPG -> fingers_processed/fingers_1/fingers_1_298.jpg
+PROCESSING FILE: IMG_5113.JPG -> fingers_processed/fingers_1/fingers_1_299.jpg
+PROCESSING FILE: IMG_5139.JPG -> fingers_processed/fingers_1/fingers_1_300.jpg
+PROCESSING FILE: IMG_5105.JPG -> fingers_processed/fingers_1/fingers_1_301.jpg
+PROCESSING FILE: IMG_5111.JPG -> fingers_processed/fingers_1/fingers_1_302.jpg
+PROCESSING FILE: IMG_5307.JPG -> fingers_processed/fingers_1/fingers_1_303.jpg
+PROCESSING FILE: IMG_5313.JPG -> fingers_processed/fingers_1/fingers_1_304.jpg
+PROCESSING FILE: IMG_5298.JPG -> fingers_processed/fingers_1/fingers_1_305.jpg
+PROCESSING FILE: IMG_5273.JPG -> fingers_processed/fingers_1/fingers_1_306.jpg
+PROCESSING FILE: IMG_5267.JPG -> fingers_processed/fingers_1/fingers_1_307.jpg
+PROCESSING FILE: IMG_5276 (1).JPG -> fingers_processed/fingers_1/fingers_1_308.jpg
+PROCESSING FILE: IMG_5266 (1).JPG -> fingers_processed/fingers_1/fingers_1_309.jpg
+PROCESSING FILE: IMG_5059.JPG -> fingers_processed/fingers_1/fingers_1_310.jpg
+PROCESSING FILE: IMG_5071.JPG -> fingers_processed/fingers_1/fingers_1_311.jpg
+PROCESSING FILE: IMG_5065.JPG -> fingers_processed/fingers_1/fingers_1_312.jpg
+PROCESSING FILE: IMG_5064.JPG -> fingers_processed/fingers_1/fingers_1_313.jpg
+PROCESSING FILE: IMG_5070.JPG -> fingers_processed/fingers_1/fingers_1_314.jpg
+PROCESSING FILE: IMG_5058.JPG -> fingers_processed/fingers_1/fingers_1_315.jpg
+PROCESSING FILE: IMG_5292 (1).JPG -> fingers_processed/fingers_1/fingers_1_316.jpg
+PROCESSING FILE: IMG_5282 (1).JPG -> fingers_processed/fingers_1/fingers_1_317.jpg
+PROCESSING FILE: IMG_5266.JPG -> fingers_processed/fingers_1/fingers_1_318.jpg
+PROCESSING FILE: IMG_5272.JPG -> fingers_processed/fingers_1/fingers_1_319.jpg
+PROCESSING FILE: IMG_5353 (1).JPG -> fingers_processed/fingers_1/fingers_1_320.jpg
+PROCESSING FILE: IMG_5343 (1).JPG -> fingers_processed/fingers_1/fingers_1_321.jpg
+PROCESSING FILE: IMG_5299.JPG -> fingers_processed/fingers_1/fingers_1_322.jpg
+PROCESSING FILE: IMG_5312.JPG -> fingers_processed/fingers_1/fingers_1_323.jpg
+PROCESSING FILE: IMG_5306.JPG -> fingers_processed/fingers_1/fingers_1_324.jpg
+PROCESSING FILE: IMG_5331 (1).JPG -> fingers_processed/fingers_1/fingers_1_325.jpg
+PROCESSING FILE: IMG_5321 (1).JPG -> fingers_processed/fingers_1/fingers_1_326.jpg
+PROCESSING FILE: IMG_5259 (1).JPG -> fingers_processed/fingers_1/fingers_1_327.jpg
+PROCESSING FILE: IMG_5110.JPG -> fingers_processed/fingers_1/fingers_1_328.jpg
+PROCESSING FILE: IMG_5104.JPG -> fingers_processed/fingers_1/fingers_1_329.jpg
+PROCESSING FILE: IMG_5138.JPG -> fingers_processed/fingers_1/fingers_1_330.jpg
+PROCESSING FILE: IMG_5100.JPG -> fingers_processed/fingers_1/fingers_1_331.jpg
+PROCESSING FILE: IMG_5114.JPG -> fingers_processed/fingers_1/fingers_1_332.jpg
+PROCESSING FILE: IMG_5128.JPG -> fingers_processed/fingers_1/fingers_1_333.jpg
+PROCESSING FILE: IMG_5302.JPG -> fingers_processed/fingers_1/fingers_1_334.jpg
+PROCESSING FILE: IMG_5316.JPG -> fingers_processed/fingers_1/fingers_1_335.jpg
+PROCESSING FILE: IMG_5289.JPG -> fingers_processed/fingers_1/fingers_1_336.jpg
+PROCESSING FILE: IMG_5267 (1).JPG -> fingers_processed/fingers_1/fingers_1_337.jpg
+PROCESSING FILE: IMG_5277 (1).JPG -> fingers_processed/fingers_1/fingers_1_338.jpg
+PROCESSING FILE: IMG_5276.JPG -> fingers_processed/fingers_1/fingers_1_339.jpg
+PROCESSING FILE: IMG_5262.JPG -> fingers_processed/fingers_1/fingers_1_340.jpg
+PROCESSING FILE: IMG_5074.JPG -> fingers_processed/fingers_1/fingers_1_341.jpg
+PROCESSING FILE: IMG_5060.JPG -> fingers_processed/fingers_1/fingers_1_342.jpg
+PROCESSING FILE: IMG_5048.JPG -> fingers_processed/fingers_1/fingers_1_343.jpg
+PROCESSING FILE: IMG_5342 (1).JPG -> fingers_processed/fingers_1/fingers_1_344.jpg
+PROCESSING FILE: IMG_5352 (1).JPG -> fingers_processed/fingers_1/fingers_1_345.jpg
+PROCESSING FILE: IMG_5049.JPG -> fingers_processed/fingers_1/fingers_1_346.jpg
+PROCESSING FILE: IMG_5061.JPG -> fingers_processed/fingers_1/fingers_1_347.jpg
+PROCESSING FILE: IMG_5075.JPG -> fingers_processed/fingers_1/fingers_1_348.jpg
+PROCESSING FILE: IMG_5263.JPG -> fingers_processed/fingers_1/fingers_1_349.jpg
+PROCESSING FILE: IMG_5277.JPG -> fingers_processed/fingers_1/fingers_1_350.jpg
+PROCESSING FILE: IMG_5283 (1).JPG -> fingers_processed/fingers_1/fingers_1_351.jpg
+PROCESSING FILE: IMG_5293 (1).JPG -> fingers_processed/fingers_1/fingers_1_352.jpg
+PROCESSING FILE: IMG_5288.JPG -> fingers_processed/fingers_1/fingers_1_353.jpg
+PROCESSING FILE: IMG_5317.JPG -> fingers_processed/fingers_1/fingers_1_354.jpg
+PROCESSING FILE: IMG_5303.JPG -> fingers_processed/fingers_1/fingers_1_355.jpg
+PROCESSING FILE: IMG_5129.JPG -> fingers_processed/fingers_1/fingers_1_356.jpg
+PROCESSING FILE: IMG_5115.JPG -> fingers_processed/fingers_1/fingers_1_357.jpg
+PROCESSING FILE: IMG_5101.JPG -> fingers_processed/fingers_1/fingers_1_358.jpg
+PROCESSING FILE: IMG_5258 (1).JPG -> fingers_processed/fingers_1/fingers_1_359.jpg
+PROCESSING FILE: IMG_5320 (1).JPG -> fingers_processed/fingers_1/fingers_1_360.jpg
+PROCESSING FILE: IMG_5330 (1).JPG -> fingers_processed/fingers_1/fingers_1_361.jpg
+PROCESSING FILE: IMG_5306 (1).JPG -> fingers_processed/fingers_1/fingers_1_362.jpg
+PROCESSING FILE: IMG_5316 (1).JPG -> fingers_processed/fingers_1/fingers_1_363.jpg
+PROCESSING FILE: IMG_5117.JPG -> fingers_processed/fingers_1/fingers_1_364.jpg
+PROCESSING FILE: IMG_5103.JPG -> fingers_processed/fingers_1/fingers_1_365.jpg
+PROCESSING FILE: IMG_5315.JPG -> fingers_processed/fingers_1/fingers_1_366.jpg
+PROCESSING FILE: IMG_5301.JPG -> fingers_processed/fingers_1/fingers_1_367.jpg
+PROCESSING FILE: IMG_5329.JPG -> fingers_processed/fingers_1/fingers_1_368.jpg
+PROCESSING FILE: IMG_5261.JPG -> fingers_processed/fingers_1/fingers_1_369.jpg
+PROCESSING FILE: IMG_5275.JPG -> fingers_processed/fingers_1/fingers_1_370.jpg
+PROCESSING FILE: IMG_5249.JPG -> fingers_processed/fingers_1/fingers_1_371.jpg
+PROCESSING FILE: IMG_5088.JPG -> fingers_processed/fingers_1/fingers_1_372.jpg
+PROCESSING FILE: IMG_5063.JPG -> fingers_processed/fingers_1/fingers_1_373.jpg
+PROCESSING FILE: IMG_5077.JPG -> fingers_processed/fingers_1/fingers_1_374.jpg
+PROCESSING FILE: IMG_5076.JPG -> fingers_processed/fingers_1/fingers_1_375.jpg
+PROCESSING FILE: IMG_5062.JPG -> fingers_processed/fingers_1/fingers_1_376.jpg
+PROCESSING FILE: IMG_5089.JPG -> fingers_processed/fingers_1/fingers_1_377.jpg
+PROCESSING FILE: IMG_5248.JPG -> fingers_processed/fingers_1/fingers_1_378.jpg
+PROCESSING FILE: IMG_5274.JPG -> fingers_processed/fingers_1/fingers_1_379.jpg
+PROCESSING FILE: IMG_5260.JPG -> fingers_processed/fingers_1/fingers_1_380.jpg
+PROCESSING FILE: IMG_5339 (1).JPG -> fingers_processed/fingers_1/fingers_1_381.jpg
+PROCESSING FILE: IMG_5329 (1).JPG -> fingers_processed/fingers_1/fingers_1_382.jpg
+PROCESSING FILE: IMG_5328.JPG -> fingers_processed/fingers_1/fingers_1_383.jpg
+PROCESSING FILE: IMG_5300.JPG -> fingers_processed/fingers_1/fingers_1_384.jpg
+PROCESSING FILE: IMG_5314.JPG -> fingers_processed/fingers_1/fingers_1_385.jpg
+PROCESSING FILE: IMG_5102.JPG -> fingers_processed/fingers_1/fingers_1_386.jpg
+PROCESSING FILE: IMG_5116.JPG -> fingers_processed/fingers_1/fingers_1_387.jpg
+PROCESSING FILE: IMG_5275 (1).JPG -> fingers_processed/fingers_1/fingers_1_388.jpg
+PROCESSING FILE: IMG_5265 (1).JPG -> fingers_processed/fingers_1/fingers_1_389.jpg
+PROCESSING FILE: IMG_5159.JPG -> fingers_processed/fingers_1/fingers_1_390.jpg
+PROCESSING FILE: IMG_5171.JPG -> fingers_processed/fingers_1/fingers_1_391.jpg
+PROCESSING FILE: IMG_5165.JPG -> fingers_processed/fingers_1/fingers_1_392.jpg
+PROCESSING FILE: IMG_5398.JPG -> fingers_processed/fingers_1/fingers_1_393.jpg
+PROCESSING FILE: IMG_5429.JPG -> fingers_processed/fingers_1/fingers_1_394.jpg
+PROCESSING FILE: IMG_5373.JPG -> fingers_processed/fingers_1/fingers_1_395.jpg
+PROCESSING FILE: IMG_5415.JPG -> fingers_processed/fingers_1/fingers_1_396.jpg
+PROCESSING FILE: IMG_5401.JPG -> fingers_processed/fingers_1/fingers_1_397.jpg
+PROCESSING FILE: IMG_5367.JPG -> fingers_processed/fingers_1/fingers_1_398.jpg
+PROCESSING FILE: IMG_5207.JPG -> fingers_processed/fingers_1/fingers_1_399.jpg
+PROCESSING FILE: IMG_5213.JPG -> fingers_processed/fingers_1/fingers_1_400.jpg
+PROCESSING FILE: IMG_5039.JPG -> fingers_processed/fingers_1/fingers_1_401.jpg
+PROCESSING FILE: IMG_5038.JPG -> fingers_processed/fingers_1/fingers_1_402.jpg
+PROCESSING FILE: IMG_5212.JPG -> fingers_processed/fingers_1/fingers_1_403.jpg
+PROCESSING FILE: IMG_5332 (1).JPG -> fingers_processed/fingers_1/fingers_1_404.jpg
+PROCESSING FILE: IMG_5206.JPG -> fingers_processed/fingers_1/fingers_1_405.jpg
+PROCESSING FILE: IMG_5322 (1).JPG -> fingers_processed/fingers_1/fingers_1_406.jpg
+PROCESSING FILE: IMG_5400.JPG -> fingers_processed/fingers_1/fingers_1_407.jpg
+PROCESSING FILE: IMG_5366.JPG -> fingers_processed/fingers_1/fingers_1_408.jpg
+PROCESSING FILE: IMG_5372.JPG -> fingers_processed/fingers_1/fingers_1_409.jpg
+PROCESSING FILE: IMG_5414.JPG -> fingers_processed/fingers_1/fingers_1_410.jpg
+PROCESSING FILE: IMG_5428.JPG -> fingers_processed/fingers_1/fingers_1_411.jpg
+PROCESSING FILE: IMG_5350 (1).JPG -> fingers_processed/fingers_1/fingers_1_412.jpg
+PROCESSING FILE: IMG_5399.JPG -> fingers_processed/fingers_1/fingers_1_413.jpg
+PROCESSING FILE: IMG_5340 (1).JPG -> fingers_processed/fingers_1/fingers_1_414.jpg
+PROCESSING FILE: IMG_5164.JPG -> fingers_processed/fingers_1/fingers_1_415.jpg
+PROCESSING FILE: IMG_5170.JPG -> fingers_processed/fingers_1/fingers_1_416.jpg
+PROCESSING FILE: IMG_5158.JPG -> fingers_processed/fingers_1/fingers_1_417.jpg
+PROCESSING FILE: IMG_5291 (1).JPG -> fingers_processed/fingers_1/fingers_1_418.jpg
+PROCESSING FILE: IMG_5281 (1).JPG -> fingers_processed/fingers_1/fingers_1_419.jpg
+PROCESSING FILE: IMG_5199.JPG -> fingers_processed/fingers_1/fingers_1_420.jpg
+PROCESSING FILE: IMG_5166.JPG -> fingers_processed/fingers_1/fingers_1_421.jpg
+PROCESSING FILE: IMG_5172.JPG -> fingers_processed/fingers_1/fingers_1_422.jpg
+PROCESSING FILE: IMG_5358.JPG -> fingers_processed/fingers_1/fingers_1_423.jpg
+PROCESSING FILE: IMG_5364.JPG -> fingers_processed/fingers_1/fingers_1_424.jpg
+PROCESSING FILE: IMG_5402.JPG -> fingers_processed/fingers_1/fingers_1_425.jpg
+PROCESSING FILE: IMG_5416.JPG -> fingers_processed/fingers_1/fingers_1_426.jpg
+PROCESSING FILE: IMG_5370.JPG -> fingers_processed/fingers_1/fingers_1_427.jpg
+PROCESSING FILE: IMG_5314 (1).JPG -> fingers_processed/fingers_1/fingers_1_428.jpg
+PROCESSING FILE: IMG_5304 (1).JPG -> fingers_processed/fingers_1/fingers_1_429.jpg
+PROCESSING FILE: IMG_5210.JPG -> fingers_processed/fingers_1/fingers_1_430.jpg
+PROCESSING FILE: IMG_5204.JPG -> fingers_processed/fingers_1/fingers_1_431.jpg
+PROCESSING FILE: IMG_5349 (1).JPG -> fingers_processed/fingers_1/fingers_1_432.jpg
+PROCESSING FILE: IMG_5205.JPG -> fingers_processed/fingers_1/fingers_1_433.jpg
+PROCESSING FILE: IMG_5211.JPG -> fingers_processed/fingers_1/fingers_1_434.jpg
+PROCESSING FILE: IMG_5288 (1).JPG -> fingers_processed/fingers_1/fingers_1_435.jpg
+PROCESSING FILE: IMG_5298 (1).JPG -> fingers_processed/fingers_1/fingers_1_436.jpg
+PROCESSING FILE: IMG_5417.JPG -> fingers_processed/fingers_1/fingers_1_437.jpg
+PROCESSING FILE: IMG_5371.JPG -> fingers_processed/fingers_1/fingers_1_438.jpg
+PROCESSING FILE: IMG_5365.JPG -> fingers_processed/fingers_1/fingers_1_439.jpg
+PROCESSING FILE: IMG_5403.JPG -> fingers_processed/fingers_1/fingers_1_440.jpg
+PROCESSING FILE: IMG_5359.JPG -> fingers_processed/fingers_1/fingers_1_441.jpg
+PROCESSING FILE: IMG_5173.JPG -> fingers_processed/fingers_1/fingers_1_442.jpg
+PROCESSING FILE: IMG_5167.JPG -> fingers_processed/fingers_1/fingers_1_443.jpg
+PROCESSING FILE: IMG_5198.JPG -> fingers_processed/fingers_1/fingers_1_444.jpg
+PROCESSING FILE: IMG_5188.JPG -> fingers_processed/fingers_1/fingers_1_445.jpg
+PROCESSING FILE: IMG_5163.JPG -> fingers_processed/fingers_1/fingers_1_446.jpg
+PROCESSING FILE: IMG_5407.JPG -> fingers_processed/fingers_1/fingers_1_447.jpg
+PROCESSING FILE: IMG_5361.JPG -> fingers_processed/fingers_1/fingers_1_448.jpg
+PROCESSING FILE: IMG_5375.JPG -> fingers_processed/fingers_1/fingers_1_449.jpg
+PROCESSING FILE: IMG_5413.JPG -> fingers_processed/fingers_1/fingers_1_450.jpg
+PROCESSING FILE: IMG_5349.JPG -> fingers_processed/fingers_1/fingers_1_451.jpg
+PROCESSING FILE: IMG_5215.JPG -> fingers_processed/fingers_1/fingers_1_452.jpg
+PROCESSING FILE: IMG_5201.JPG -> fingers_processed/fingers_1/fingers_1_453.jpg
+PROCESSING FILE: IMG_5229.JPG -> fingers_processed/fingers_1/fingers_1_454.jpg
+PROCESSING FILE: IMG_5305 (1).JPG -> fingers_processed/fingers_1/fingers_1_455.jpg
+PROCESSING FILE: IMG_5315 (1).JPG -> fingers_processed/fingers_1/fingers_1_456.jpg
+PROCESSING FILE: IMG_5299 (1).JPG -> fingers_processed/fingers_1/fingers_1_457.jpg
+PROCESSING FILE: IMG_5289 (1).JPG -> fingers_processed/fingers_1/fingers_1_458.jpg
+PROCESSING FILE: IMG_5255.jpeg -> fingers_processed/fingers_1/fingers_1_459.jpg
+PROCESSING FILE: IMG_5228.JPG -> fingers_processed/fingers_1/fingers_1_460.jpg
+PROCESSING FILE: IMG_5200.JPG -> fingers_processed/fingers_1/fingers_1_461.jpg
+PROCESSING FILE: IMG_5214.JPG -> fingers_processed/fingers_1/fingers_1_462.jpg
+PROCESSING FILE: IMG_5348 (1).JPG -> fingers_processed/fingers_1/fingers_1_463.jpg
+PROCESSING FILE: IMG_5348.JPG -> fingers_processed/fingers_1/fingers_1_464.jpg
+PROCESSING FILE: IMG_5374.JPG -> fingers_processed/fingers_1/fingers_1_465.jpg
+PROCESSING FILE: IMG_5412.JPG -> fingers_processed/fingers_1/fingers_1_466.jpg
+PROCESSING FILE: IMG_5406.JPG -> fingers_processed/fingers_1/fingers_1_467.jpg
+PROCESSING FILE: IMG_5360.JPG -> fingers_processed/fingers_1/fingers_1_468.jpg
+PROCESSING FILE: IMG_5176.JPG -> fingers_processed/fingers_1/fingers_1_469.jpg
+PROCESSING FILE: IMG_5162.JPG -> fingers_processed/fingers_1/fingers_1_470.jpg
+PROCESSING FILE: IMG_5189.JPG -> fingers_processed/fingers_1/fingers_1_471.jpg
+PROCESSING FILE: IMG_5174.JPG -> fingers_processed/fingers_1/fingers_1_472.jpg
+PROCESSING FILE: IMG_5160.JPG -> fingers_processed/fingers_1/fingers_1_473.jpg
+PROCESSING FILE: IMG_5148.JPG -> fingers_processed/fingers_1/fingers_1_474.jpg
+PROCESSING FILE: IMG_5389.JPG -> fingers_processed/fingers_1/fingers_1_475.jpg
+PROCESSING FILE: IMG_5410.JPG -> fingers_processed/fingers_1/fingers_1_476.jpg
+PROCESSING FILE: IMG_5376.JPG -> fingers_processed/fingers_1/fingers_1_477.jpg
+PROCESSING FILE: IMG_5362.JPG -> fingers_processed/fingers_1/fingers_1_478.jpg
+PROCESSING FILE: IMG_5404.JPG -> fingers_processed/fingers_1/fingers_1_479.jpg
+PROCESSING FILE: IMG_5264 (1).JPG -> fingers_processed/fingers_1/fingers_1_480.jpg
+PROCESSING FILE: IMG_5274 (1).JPG -> fingers_processed/fingers_1/fingers_1_481.jpg
+PROCESSING FILE: IMG_5438.JPG -> fingers_processed/fingers_1/fingers_1_482.jpg
+PROCESSING FILE: IMG_5202.JPG -> fingers_processed/fingers_1/fingers_1_483.jpg
+PROCESSING FILE: IMG_5216.JPG -> fingers_processed/fingers_1/fingers_1_484.jpg
+PROCESSING FILE: IMG_5323 (1).JPG -> fingers_processed/fingers_1/fingers_1_485.jpg
+PROCESSING FILE: IMG_5333 (1).JPG -> fingers_processed/fingers_1/fingers_1_486.jpg
+PROCESSING FILE: IMG_5217.JPG -> fingers_processed/fingers_1/fingers_1_487.jpg
+PROCESSING FILE: IMG_5203.JPG -> fingers_processed/fingers_1/fingers_1_488.jpg
+PROCESSING FILE: IMG_5439.JPG -> fingers_processed/fingers_1/fingers_1_489.jpg
+PROCESSING FILE: IMG_5280 (1).JPG -> fingers_processed/fingers_1/fingers_1_490.jpg
+PROCESSING FILE: IMG_5290 (1).JPG -> fingers_processed/fingers_1/fingers_1_491.jpg
+PROCESSING FILE: IMG_5363.JPG -> fingers_processed/fingers_1/fingers_1_492.jpg
+PROCESSING FILE: IMG_5405.JPG -> fingers_processed/fingers_1/fingers_1_493.jpg
+PROCESSING FILE: IMG_5411.JPG -> fingers_processed/fingers_1/fingers_1_494.jpg
+PROCESSING FILE: IMG_5377.JPG -> fingers_processed/fingers_1/fingers_1_495.jpg
+PROCESSING FILE: IMG_5388.JPG -> fingers_processed/fingers_1/fingers_1_496.jpg
+PROCESSING FILE: IMG_5149.JPG -> fingers_processed/fingers_1/fingers_1_497.jpg
+PROCESSING FILE: IMG_5161.JPG -> fingers_processed/fingers_1/fingers_1_498.jpg
+PROCESSING FILE: IMG_5175.JPG -> fingers_processed/fingers_1/fingers_1_499.jpg
+PROCESSING FILE: IMG_5341 (1).JPG -> fingers_processed/fingers_1/fingers_1_500.jpg
+PROCESSING FILE: IMG_5351 (1).JPG -> fingers_processed/fingers_1/fingers_1_501.jpg

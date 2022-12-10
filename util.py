@@ -6,7 +6,7 @@ import tensorflow as tf
 
 
 
-def edge_detection(img_path):
+def edge_detection(img_path: str):
     # Read the original image
     img = cv2.imread(img_path)
 
@@ -24,6 +24,18 @@ def edge_detection(img_path):
     edges = cv2.Canny(image=img_blur, threshold1=100, threshold2=200) # Canny Edge Detection
     
     return (sobelx, sobely, sobelxy, edges)
+
+
+
+
+def decimal_to_binary(bits: int, number: int) -> bytearray:
+    power = 2 << (bits - 1)
+    res = []
+    while power != 0:
+        res.insert(0, int(number-power>0))
+        power >> 1
+    return res
+
 
 
 
@@ -58,17 +70,16 @@ def bound_coordinate(coord, dim, w, h):
 def hand_silhouetting(img: list, args, img_path: str=None) -> list:
 
     if img_path is not None:
-        success, img_read = cv2.imread(img_path)
-        if not success:
-            raise Exception("Failed to read image path for hand sillhouetting.")
-        else:
-            img = img_read
+        img = cv2.imread(img_path)
+        cv2.imshow("unprocessed image", img)
+    if not hasattr(args, "debug_processing"):
+        args.debug_processing = False
 
     mpHands = mp.solutions.hands
-    hands = mpHands.Hands(static_image_mode=False,
+    hands = mpHands.Hands(static_image_mode=True,
                         max_num_hands=1,
-                        min_detection_confidence=0.5,
-                        min_tracking_confidence=0.5)
+                        min_detection_confidence=0,
+                        min_tracking_confidence=0.1)
     mpDraw = mp.solutions.drawing_utils
 
     pTime = 0
@@ -80,7 +91,7 @@ def hand_silhouetting(img: list, args, img_path: str=None) -> list:
 
     crop_minx, crop_maxx, crop_miny, crop_maxy = 0, 1, 0, 1
 
-
+    print("bounding results: " + str(results.multi_hand_landmarks))
     if results.multi_hand_landmarks:
 
         # find bounding box
@@ -110,6 +121,13 @@ def hand_silhouetting(img: list, args, img_path: str=None) -> list:
         crop_miny = minimum_y
         crop_maxy = maximum_y
 
+    else:
+        print(img_path)
+        cv2.imshow("Image with no bounds", img)
+        while True:
+            if cv2.waitKey(1) & 0xFF == ord('q'):
+                break
+
 
     cTime = time.time()
     fps = 1/(cTime-pTime)
@@ -128,8 +146,6 @@ def hand_silhouetting(img: list, args, img_path: str=None) -> list:
     crop_maxy_threshold = bound_coordinate(crop_miny+crop_size+threshold, 1, w, h)
     crop_maxx_threshold = bound_coordinate(crop_minx+crop_size+threshold, 0, w, h)
     crop_img = img[crop_miny_threshold:crop_maxy_threshold, crop_minx_threshold:crop_maxx_threshold]
-
-    if args.debug:
-        cv2.imshow("sillhouetted", crop_img)
     
+    if args.debug_processing: return (img, crop_img)
     return crop_img
